@@ -1,0 +1,60 @@
+{
+  "table": {
+    "isActive": false,
+    "rowsLimit": 5
+  },
+  "charts": {
+    "isActive": true
+  },
+  "metaTags": {
+    "title": "",
+    "description": "",
+    "image": ""
+  },
+  "analytics_ids": [],
+  "excluded_plugins": ["minimap"],
+  "mapConfig": {
+    "center": {
+      "latitude": -53.7912,
+      "longitude": -67.6871
+    },
+    "zoom": {
+      "initial": 12,
+      "min": 3,
+      "max": 21
+    }
+  },
+  "showSearchBar": false,
+  "referencias": {
+    "show": true,
+    "src": "src/styles/images/referencias_icono.png",
+    "width":"25px",
+    "height":"31px"
+  },
+  "theme": {
+    "bodyBackground": "#14A2DB",
+    "headerBackground": "#14A2DB",
+    "menuBackground": "#2AB99E",
+    "activeLayer": "#606062",
+    "textMenu":"white",
+    "textMenuStyle":"",
+    "textLegendMenu":"#dddddd",
+    "textLegendMenuStyle":"",
+    "iconBar":"#4f4f4f"
+    },
+  "logo": {
+    "title":"Municipio de Rio Grande",
+    "src": "src/config/styles/images/logo_rga.png",
+    "height": "110px",
+    "width": "",
+    "style": "",
+    "srcLogoMini": "src/config/styles/images/logo_rga.png",
+    "miniHeight": "110px",
+    "miniWidth": "",
+    "ministyle": ""
+  },
+  "title": "Visor Mapas Rio Grande ",
+  "website": "https://www.riogrande.gob.ar/",
+  "favicon": "https://www.ign.gob.ar/sites/default/files/favicon.png"
+}
+
